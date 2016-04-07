@@ -8,7 +8,7 @@ A boilerplate to get started with new es6 features using babel and gulp.
     gulp
     
     
-### Get Started
+### Getting Started
 
 Add your code in src/js/app.js e.g
 
