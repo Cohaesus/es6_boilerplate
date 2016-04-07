@@ -6,8 +6,24 @@ A boilerplate to get started with new es6 features using babel and gulp.
 
     npm install
     gulp
+    
+    
+### Get Started
 
-### Useful links
+Add your code in src/js/app.js e.g
+
+    let foo = "bar";
+
+Your code will be compiled to 
+
+    "use strict";
+    
+    var foo = "bar";
+
+in build/js/app.js
+
+
+### Useful Links
 
  - http://es6-features.org/#Constants
  - https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla
