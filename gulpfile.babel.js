@@ -16,8 +16,6 @@ gulp.task('stream', () => {
         .pipe(gulp.dest(path.dist))
 });
 
-
-// Default Task
 gulp.task('default', ['stream']);
 
 
