@@ -7,7 +7,7 @@ A boilerplate to get started with new es6 features using babel and gulp.
     npm install
     gulp
 
-You should be able to open the app using http://localhost:8001
+You should be able to open the app at http://localhost:8001
     
 ### Getting Started
 
